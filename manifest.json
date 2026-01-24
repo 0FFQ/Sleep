@@ -1,0 +1,16 @@
+{
+  "name": "Сон",
+  "short_name": "Сон",
+  "description": "Шум для сна",
+  "icons": [
+    {
+      "src": "icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#f5b400",
+  "background_color": "#5a4632",
+  "display": "standalone",
+  "start_url": "/"
+}
