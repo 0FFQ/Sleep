@@ -20,6 +20,7 @@
 
     <!-- PWA манифест (опционально) -->
     <link rel="manifest" href="site.webmanifest">
+
     <style>
         body {
             display: flex;
@@ -27,8 +28,9 @@
             align-items: center;
             text-align: center;
             min-height: 100vh;
-            background-color: rgb(90, 70, 50); /* тёплый по умолчанию */
+            background-color: rgb(90, 70, 50);
             transition: background-color 0.5s ease;
+            overflow: hidden;
         }
         button {
             background: none;
@@ -51,16 +53,11 @@
             height: 180px;
             transition: filter 0.5s ease;
         }
-        /* Белая иконка */
         .icon-white {
             filter: brightness(0) invert(1);
         }
-        /* Серая иконка */
         .icon-gray {
             filter: brightness(0.7) invert(0.6);
-        }
-        html, body {
-            overflow: hidden;
         }
     </style>
 </head>
@@ -77,16 +74,15 @@
         const icon = document.getElementById('sleepIcon');
         const body = document.body;
 
-        // При клике переключаем состояние
         btn.addEventListener('click', () => {
             if (audio.paused) {
                 audio.play();
-                body.style.backgroundColor = 'rgb(40, 40, 40)'; // тёмный
+                body.style.backgroundColor = 'rgb(40, 40, 40)';
                 icon.classList.remove('icon-white');
                 icon.classList.add('icon-gray');
             } else {
                 audio.pause();
-                body.style.backgroundColor = 'rgb(90, 70, 50)'; // тёплый
+                body.style.backgroundColor = 'rgb(90, 70, 50)';
                 icon.classList.remove('icon-gray');
                 icon.classList.add('icon-white');
             }
