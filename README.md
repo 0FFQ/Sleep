@@ -1,4 +1,4 @@
-# 🌧️ Son — Дождь для сна
+# 🌧️ Son - Дождь для сна
 
 <p align="center">
   <a href="https://0ffq.github.io/son-site/">
@@ -24,17 +24,11 @@
   <img src="https://img.shields.io/badge/Адаптивная_верстка-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
 </p>
 
-<p align="center">
-  <b>100% HTML + чистый JS без фреймворков - всё в одном файле</b>
-</p>
-
 ---
 
 ## 🔗 Ссылка на сайт
 
 👉 **[https://0ffq.github.io/son-site/](https://0ffq.github.io/son-site/)**
-
-> 💤 **Как работает:** Нажми на иконку - начнётся бесконечный дождь. Нажми ещё раз - остановится.  
 
 ---
 
@@ -43,5 +37,5 @@
 <div align="center">
   <img src="ImagesForReadme/screen_1.png" width="800">
   <br><br>
-  <img src="ImagesForReadme/screen_1.png" width="800">
+  <img src="ImagesForReadme/screen_2.png" width="800">
 </div>
