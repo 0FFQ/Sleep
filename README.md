@@ -9,7 +9,7 @@
 ## 📋 About
 
 **Sleep** is an ultra-minimalist website designed for one purpose: **fall asleep faster**.  
-No unnecessary interface — just open the page, **one click on the icon**, and endless rain sounds help you relax and drift off.
+No unnecessary interface - just open the page, **one click on the icon**, and endless rain sounds help you relax and drift off.
 
 ---
 
