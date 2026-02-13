@@ -1,19 +1,19 @@
-# 🌧️ Son - Дождь для сна
+# 🌧️ Sleep - Rain for Sleep
 
 <p align="center">
-  <a href="https://0ffq.github.io/son-site/">
-    <img src="https://img.shields.io/badge/Сайт-Son-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <a href="https://0ffq.github.io/Sleep/">
+    <img src="https://img.shields.io/badge/Website-Sleep-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 
-## 📋 О проекте
+## 📋 About
 
-**Son** - это ультра-минималистичный сайт для быстрого засыпания.  
-Никакого лишнего интерфейса: открываешь страницу, **один клик по иконке** - и бесконечный шум дождя помогает расслабиться и уснуть.
+**Sleep** is an ultra-minimalist website designed for one purpose: **fall asleep faster**.  
+No unnecessary interface — just open the page, **one click on the icon**, and endless rain sounds help you relax and drift off.
 
 ---
 
-## 🛠️ Стек технологий
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,18 +21,18 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white">
-  <img src="https://img.shields.io/badge/Адаптивная_верстка-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Responsive_Design-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
 </p>
 
 ---
 
-## 🔗 Ссылка на сайт
+## 🔗 Live Demo
 
-👉 **[https://0ffq.github.io/son-site/](https://0ffq.github.io/son-site/)**
+👉 **[https://0ffq.github.io/Sleep/](https://0ffq.github.io/Sleep/)**
 
 ---
 
-## 🖥️ Скриншоты интерфейса
+## 🖥️ Screenshots
 
 <div align="center">
   <img src="ImagesForReadme/screen_1.png" width="800">
